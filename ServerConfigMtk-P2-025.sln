@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConfigMtk-P2-025", "ServerConfigMtk-P2-025\ServerConfigMtk-P2-025.csproj", "{D01B1F3B-ABD6-42C3-BD20-0DEFA8F3207F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01B1F3B-ABD6-42C3-BD20-0DEFA8F3207F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01B1F3B-ABD6-42C3-BD20-0DEFA8F3207F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01B1F3B-ABD6-42C3-BD20-0DEFA8F3207F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01B1F3B-ABD6-42C3-BD20-0DEFA8F3207F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DA33DC-C181-464B-A733-0F029262267C}
+	EndGlobalSection
+EndGlobal
